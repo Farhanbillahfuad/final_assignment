@@ -915,18 +915,3 @@ body {
     }
 }
 
-@media (max-width: 480px) {
-    .our-plants-section {
-        padding: 40px 3%;
-    }
-
-    .product-card {
-        width: 95%; 
-        padding: 15px;
-    }
-
-    .product-card img {
-        height: 250px;
-    }
-
-    
